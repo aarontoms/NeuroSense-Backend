@@ -1,0 +1,7 @@
+start_frame,end_frame,label_pred,env_factors_pred
+0,60,normal,[]
+30,90,normal,[]
+60,120,normal,[]
+90,150,trigger,"['camera_recording', 'stranger_present']"
+120,180,trigger,['camera_recording']
+150,210,trigger,['camera_recording']
