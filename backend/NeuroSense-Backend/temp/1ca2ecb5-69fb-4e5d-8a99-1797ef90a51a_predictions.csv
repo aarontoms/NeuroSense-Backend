@@ -1,0 +1,6 @@
+start_frame,end_frame,label_pred,env_factors_pred
+0,60,trigger,[]
+30,90,trigger,[]
+60,120,trigger,[]
+90,150,normal,[]
+120,180,trigger,[]

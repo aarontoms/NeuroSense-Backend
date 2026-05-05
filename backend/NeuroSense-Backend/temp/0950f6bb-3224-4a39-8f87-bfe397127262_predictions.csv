@@ -1,0 +1,7 @@
+start_frame,end_frame,label_pred,env_factors_pred
+0,60,trigger,[]
+30,90,trigger,"['camera_recording', 'stranger_present']"
+60,120,trigger,[]
+90,150,trigger,[]
+120,180,trigger,"['devotional_music', 'stranger_present', 'youtube_playing']"
+150,210,trigger,[]
