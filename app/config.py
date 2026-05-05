@@ -7,4 +7,4 @@ load_dotenv()
 
 class Config:
     # Mongo
-    MONGO_URL = os.getenv("MONGO_URL")
+    MONGO_URI = os.getenv("MONGO_URL")
